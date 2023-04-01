@@ -1,0 +1,20 @@
+body {
+	background-color: #f7f7f7;
+	background-image: url("hintergrundbild.jpg");
+	background-size: cover;
+}
+
+.my-button {
+    width: 300px;
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px 24px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+.my-button:hover {
+	background-color: #3e8e41;
+}

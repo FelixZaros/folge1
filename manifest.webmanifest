@@ -1,0 +1,13 @@
+{
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "browser",
+    "scope": "test",
+    "start_url": "youtube.html",
+    "name": "test",
+    "short_name": "test",
+    "description": "test",
+    "icons": {
+        "name": "Aufnahme (2).m4a"
+    }
+}
